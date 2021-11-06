@@ -1,0 +1,17 @@
+body {
+  justify-content: center;
+  line-height: 3em;
+  background: linear-gradient(to left, blue, aqua);
+}
+form {
+  margin: auto;
+  margin-top: 150px;
+  width: 600px;
+  border: 2px solid black;
+  text-align: center;
+}
+.button button {
+  width: 200px;
+  background-color: blueviolet;
+  color: black;
+}
